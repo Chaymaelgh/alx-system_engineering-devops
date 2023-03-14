@@ -1,2 +1,2 @@
-printf"%0.2f\n
+#!/bin/bash
 printf"%0.2f\n
